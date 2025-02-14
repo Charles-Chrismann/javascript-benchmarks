@@ -29,3 +29,10 @@ Results with a $10^6$ string length:
 |------|-------------|
 |str[]|4.303499937057495|
 |.charAt|11.126199960708618|
+
+TO BENCH
+
+charCodeAt(0, 1, 2, 3 ...) vs loop charCodeAt(0)
+map vs {}
+loop if else vs loop if continue
+++ vs += 1 on variables & obj[]
