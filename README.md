@@ -33,6 +33,9 @@ Results with a $10^6$ string length:
 TO BENCH
 
 charCodeAt(0, 1, 2, 3 ...) vs loop charCodeAt(0)
+
 map vs {}
+
 loop if else vs loop if continue
+
 ++ vs += 1 on variables & obj[]
